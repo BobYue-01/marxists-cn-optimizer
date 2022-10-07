@@ -26,7 +26,7 @@ Bob Yue
 
 |浏览器|方法|
 |:----:|:--:|
-|<img src="./img/chrome_logo.svg" width="48pt"/><br>**Chrome**<br><img src="./img/ms_edge_logo.svg" width="48pt"/><br>**Microsoft Edge**<br>等以 Chromium 为内核的浏览器|[Stylus - Chrome 应用商店](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=zh-CN)<br><br>如果无法访问，请进入 [Chrome 应用商店镜像站](https://crxdl.com/)，搜索 clngdbkpkpeebahjckkjfobafhncgmne 并下载最新版，并在 [扩展管理页面](chrome://extensions/) 打开开发者选项，再将压缩包中的 .crx 文件拖入到该浏览器页面。|
+|<img src="./img/chrome_logo.svg" width="48pt"/><br>**Chrome**<br><img src="./img/ms_edge_logo.svg" width="48pt"/><br>**Microsoft Edge**<br>等以 Chromium 为内核的浏览器|[Stylus - Chrome 应用商店](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=zh-CN)<br><br>如果无法访问，请进入 [Chrome 应用商店镜像站](https://crxdl.com/)，搜索 clngdbkpkpeebahjckkjfobafhncgmne 并下载最新版，并在 [扩展管理页面（chrome://extensions/）](chrome://extensions/)打开开发者选项，再将压缩包中的 .crx 文件拖入到该浏览器页面。|
 |<img src="./img/firefox_logo.svg" width="48pt"/><br>**Firefox**|[Stylus – 下载 🦊 Firefox 扩展](https://addons.mozilla.org/zh-CN/firefox/addon/styl-us/)|
 
 ### 添加 Stylus 规则
@@ -35,7 +35,7 @@ Bob Yue
 
 ### 修改字体
 
-进入 [字体设置](chrome://settings/fonts)，将 **衬线字体** 修改为你喜欢的字体。我个人推荐：在（非高分屏）屏幕阅读时使用 **思源宋体** ，在生成打印 PDF 时使用 **方正书宋** 。
+进入 [字体设置（chrome://settings/fonts）](chrome://settings/fonts)，将 **衬线字体** 修改为你喜欢的字体。我个人推荐：在（非高分屏）屏幕阅读时使用 **思源宋体** ，在生成打印 PDF 时使用 **方正书宋** 。
 
 ## 其他说明
 
